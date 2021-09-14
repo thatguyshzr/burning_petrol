@@ -7,7 +7,7 @@ function km_petrol() {
 	document.getElementById('petr').innerHTML = petrol_used+' L';
 
 	current_petrol_price= get_petrol_price()
-	money = petrol_used * current_petrol_price
+	money = (petrol_used * current_petrol_price).toFixed(2)
 	console.log("Rs " + money)
 	document.getElementById('mon').innerHTML = 'Rs ' + money;
 
