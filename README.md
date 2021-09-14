@@ -5,4 +5,4 @@ Calculate petrol and money used given the distance to travel.
 
 ```money_spent = petrol_used * current_petrol_price```
 
-https://thatguyshzr.github.io/distance_to_petrol_used/index.html
+https://thatguyshzr.github.io/burning_petrol/index.html
