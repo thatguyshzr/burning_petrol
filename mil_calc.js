@@ -15,5 +15,5 @@ function km_petrol() {
 
 let url= "https://economictimes.indiatimes.com/wealth/fuelprices/fuel-petrol,citystate-mumbai.cms";
 function get_petrol_price() {
-	return 107.27;
+	return 107.71;
 }
